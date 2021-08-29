@@ -1,0 +1,7 @@
+aiogram
+asyncio
+aioschedule
+wheel
+fuzzywuzzy
+python-Levenshtein
+aioschedule
